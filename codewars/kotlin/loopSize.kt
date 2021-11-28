@@ -3,10 +3,7 @@ import java.util.*
 fun loopSize(n: Node): Int {
     var currentNode: Node = n
     var visited = mutableListOf<Node>()
-    while (currentNode != null) {
-        if (visited.contains(currentNode)) {
-            break
-        }
+    while (visited.contains(currentNode) == false) {
         visited.add(currentNode)
         if (currentNode.next == null) break
         currentNode.next?.let { currentNode = it }
