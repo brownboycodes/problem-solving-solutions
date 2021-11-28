@@ -9,4 +9,5 @@
 7. [Ones and Zeros](https://www.codewars.com/kata/578553c3a1b8d5c40300037c "Ones and Zeros") solutions in [dart](dart/binaryArrayToNumber.dart)
 8. [Does my number look big in this?](https://www.codewars.com/kata/5287e858c6b5a9678200083c "Does my number look big in this?") solutions in [python](python/narcissistic.py), [javascript](javascript/narcissistic.js), [typescript](typescript/narcissistic.ts)
 9. [Find the smallest integer in the array](https://www.codewars.com/kata/55a2d7ebe362935a210000b2 "Find the smallest integer in the array") solutions in [kotlin](kotlin/findSmallestInt.kt), [dart](dart/findSmallestInt.dart)
+10. [Can you get the loop ?](https://www.codewars.com/kata/52a89c2ea8ddc5547a000863 "Can you get the loop ?") solutions in [python](python/loopSize.py), [kotlin](kotlin/loopSize.kt)
 
