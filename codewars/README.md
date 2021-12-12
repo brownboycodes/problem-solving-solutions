@@ -13,5 +13,5 @@
 11. [Valid Braces](https://www.codewars.com/kata/5277c8a221e209d3f6000b56 "Valid Braces") solutions in [dart](dart/validBraces.dart), [javascript](javascript/validBraces.js), [typescript](typescript/validBraces.ts)
 12. [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7 "Count the Monkeys!") solutions in [javascript](javascript/monkeyCount.js), [typescript](typescript/monkeyCount.ts), [swift](swift/monkeyCount.swift), [dart](dart/monkeyCount.dart)
 13. [Help the bookseller!](https://www.codewars.com/kata/54dc6f5a224c26032800005c "Help the bookseller!") solutions in [kotlin](kotlin/stockSummary.kt)
-14. [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a "Directions Reduction") solutions in [pyhton](python/dirReduc.py), [kotlin](kotlin/dirReduc.kt)
+14. [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a "Directions Reduction") solutions in [python](python/dirReduc.py), [kotlin](kotlin/dirReduc.kt)
 
