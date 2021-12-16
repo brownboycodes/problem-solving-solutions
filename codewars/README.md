@@ -1,3 +1,8 @@
+## My LeetCode Profile
+
+[@brownboycodes](https://www.codewars.com/users/brownboycodes)
+
+<br>
 # Problems Solved
 
 1. [My head is at the wrong end!](https://www.codewars.com/kata/56f699cd9400f5b7d8000b55 "fix the meerkat") solutions in [python](./python/fix_the_meerkat.py), [javascript](./javascript/fixTheMeerkat.js), [typescript](./typescript/fixTheMeerkat.ts), [dart](./dart/fixTheMeerkat.dart), [coffeescript](./coffeescript/fixTheMeerkat.coffee)
@@ -14,4 +19,5 @@
 12. [Count the Monkeys!](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7 "Count the Monkeys!") solutions in [javascript](javascript/monkeyCount.js), [typescript](typescript/monkeyCount.ts), [swift](swift/monkeyCount.swift), [dart](dart/monkeyCount.dart)
 13. [Help the bookseller!](https://www.codewars.com/kata/54dc6f5a224c26032800005c "Help the bookseller!") solutions in [kotlin](kotlin/stockSummary.kt)
 14. [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a "Directions Reduction") solutions in [python](python/dirReduc.py), [kotlin](kotlin/dirReduc.kt)
+15. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050 "Playing with digits") solutions in [kotlin](kotlin/digPow.kt)
 
