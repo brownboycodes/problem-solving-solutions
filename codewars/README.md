@@ -20,4 +20,5 @@
 13. [Help the bookseller!](https://www.codewars.com/kata/54dc6f5a224c26032800005c "Help the bookseller!") solutions in [kotlin](kotlin/stockSummary.kt)
 14. [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a "Directions Reduction") solutions in [python](python/dirReduc.py), [kotlin](kotlin/dirReduc.kt)
 15. [Playing with digits](https://www.codewars.com/kata/5552101f47fc5178b1000050 "Playing with digits") solutions in [kotlin](kotlin/digPow.kt)
+16. [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd "Strip Comments") solutions in [kotlin](kotlin/stripComments.kt)
 
