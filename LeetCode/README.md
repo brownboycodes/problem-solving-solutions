@@ -13,7 +13,8 @@
 5. [House Robber](https://leetcode.com/problems/house-robber/ "House Robber") solutions in [python](python/rob.py), [kotlin](kotlin/rob.kt)
 6. [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/ "Maximum Product Subarray") solutions in [kotlin](kotlin/maxProduct.kt), [javascript](javascript/maxProduct.js), [typescript](typescript/maxProduct.ts)
 7. [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/ "1290. Convert Binary Number in a Linked List to Integer") solutions in [python](python/getDecimalValue.py), [javascript](javascript/getDecimalValue.js), [typescript](typescript/getDecimalValue.ts), [kotlin](kotlin/getDecimalValue.kt)
-8. [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/ "416. Partition Equal Subset Sum") solutions in [python](python/canPartition.py), [kotlin](kotlin/canPartition.kt)
+8. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/ "416. Partition Equal Subset Sum") solutions in [python](python/canPartition.py), [kotlin](kotlin/canPartition.kt)
 9. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/ "1446. Consecutive Characters") solutions in [python](python/maxPower.py), [kotlin](kotlin/maxPower.kt)
-10. [231. Power of Two](https://leetcode.com/problems/power-of-two/ "231. Power of Two") solutions in [kotlin](kotlin/powerOfTwo.kt)
+10. [Power of Two](https://leetcode.com/problems/power-of-two/ "231. Power of Two") solutions in [kotlin](kotlin/powerOfTwo.kt)
+11. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/ "973. K Closest Points to Origin") solutions in [python](python/kClosest.py)
 
