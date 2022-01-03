@@ -16,5 +16,6 @@
 8. [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/ "416. Partition Equal Subset Sum") solutions in [python](python/canPartition.py), [kotlin](kotlin/canPartition.kt)
 9. [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/ "1446. Consecutive Characters") solutions in [python](python/maxPower.py), [kotlin](kotlin/maxPower.kt)
 10. [Power of Two](https://leetcode.com/problems/power-of-two/ "231. Power of Two") solutions in [kotlin](kotlin/powerOfTwo.kt)
-11. [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/ "973. K Closest Points to Origin") solutions in [python](python/kClosest.py)
+11. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/ "973. K Closest Points to Origin") solutions in [python](python/kClosest.py)
+12. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/ "997. Find the Town Judge") solutions in [python](python/findJudge.py)
 
