@@ -19,4 +19,5 @@
 11. [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/ "973. K Closest Points to Origin") solutions in [python](python/kClosest.py)
 12. [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/ "997. Find the Town Judge") solutions in [python](python/findJudge.py)
 13. [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/ "849. Maximize Distance to Closest Person") solutions in [kotlin](kotlin/maxDistToClosest.kt)
+14. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/ "605. Can Place Flowers") solutions in [kotlin](kotlin/canPlaceFlowers.kt)
 
