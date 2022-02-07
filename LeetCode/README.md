@@ -22,5 +22,6 @@
 14. [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/ "605. Can Place Flowers") solutions in [kotlin](kotlin/canPlaceFlowers.kt)
 15. [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/ "875. Koko Eating Bananas") solutions in [kotlin](kotlin/minEatingSpeed.kt)
 16. [Gas Station](https://leetcode.com/problems/gas-station/ "134. Gas Station") solutions in [kotlin](kotlin/canCompleteCircuit.kt)
-17. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ "121. Best Time to Buy and Sell Stock") solutions in [kotlin](kotlin/maxProfit.kt)
+17. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ "121. Best Time to Buy and Sell Stock") solutions in [kotlin](kotlin/maxProfit.kt), [python](python/maxProfit.py)
+18. [Find the Difference](https://leetcode.com/problems/find-the-difference/ "389. Find the Difference") solutions in [kotlin](kotlin/findTheDifference.kt)
 
