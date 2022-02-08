@@ -9,17 +9,18 @@ fun canCompleteCircuit(gas: IntArray, cost: IntArray): Int {
     var start = 0
     for (i in gas.indices) {
         var remaining = gas[i] - cost[i]
-        if (currentRemaining < 0){
+        if (currentRemaining < 0) {
             start = i
             currentRemaining = remaining
         }
-        else{
+        else {
             currentRemaining += remaining
         }
         totalRemaining += remaining
     }
-    if (totalRemaining < 0)
+    if (totalRemaining < 0) {
         return -1
-    else
+    } else {
         return start
+    }
 }
