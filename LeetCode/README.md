@@ -25,4 +25,5 @@
 17. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ "121. Best Time to Buy and Sell Stock") solutions in [kotlin](kotlin/maxProfit.kt), [python](python/maxProfit.py)
 18. [Find the Difference](https://leetcode.com/problems/find-the-difference/ "389. Find the Difference") solutions in [kotlin](kotlin/findTheDifference.kt)
 19. [Add Digits](https://leetcode.com/problems/add-digits/ "258. Add Digits") solutions in [kotlin](kotlin/addDigits.kt), [swift](swift/addDigits.swift), [javascript](javascript/addDigits.js), [typescript](typescript/addDigits.ts), [golang](golang/addDigits.go)
+20. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/ "532. K-diff Pairs in an Array") solutions in [kotlin](kotlin/findPairs.kt)
 
