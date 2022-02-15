@@ -26,4 +26,5 @@
 18. [Find the Difference](https://leetcode.com/problems/find-the-difference/ "389. Find the Difference") solutions in [kotlin](kotlin/findTheDifference.kt)
 19. [Add Digits](https://leetcode.com/problems/add-digits/ "258. Add Digits") solutions in [kotlin](kotlin/addDigits.kt), [swift](swift/addDigits.swift), [javascript](javascript/addDigits.js), [typescript](typescript/addDigits.ts), [golang](golang/addDigits.go)
 20. [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/ "532. K-diff Pairs in an Array") solutions in [kotlin](kotlin/findPairs.kt)
+21. [Single Number](https://leetcode.com/problems/single-number/ "136. Single Number") solutions in [kotlin](kotlin/singleNumber.kt)
 
